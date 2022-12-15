@@ -22,7 +22,7 @@
 <li> CALL Identifier(ArgList)
 
 ### Example scanner input and output: </br>
-<li> Input code:
+<li> Input code:</br>
 Integer x;</br>
 Set x = 1;</br>
 </br>
@@ -33,5 +33,5 @@ Semicolon</br>
 Set </br>
 Id</br>
 Equal</br>
-Num_constant
-Semicolon
+Num_constant</br>
+Semicolon</br>
