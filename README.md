@@ -1,12 +1,13 @@
 # CS415-programming-language-Compiler
 
 ### CS415 programming language Description:</br>
-o	Language is case-insensitive\n
-o	All Keywords are reserved (Shown in upper case for emphasis)
+<li>
+o	Language is case-insensitive
+o	All Keywords are reserved (Shown in upper case for emphasis)</br>
 o	Parenthesis re not used in a CALL statement if no parameters are being passed.
 o	JASON has 4 arithmetic operators (+,-,* and /) and 4 relational operators (=,>,<,!). The (!) is used to denote “is not equal to”
 o	The entire operator set consists of one-character operators
-o	Comments are enclosed in braces {}
+o	Comments are enclosed in braces {}</li>
 
 CS415 has valid types of statements:
 •	READ Identifier
