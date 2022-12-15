@@ -1,6 +1,6 @@
 # CS415-programming-language-Compiler
 
-## CS415 programming language Description:</br>
+#### CS415 programming language Description:</br>
 o	Language is case-insensitive\n
 o	All Keywords are reserved (Shown in upper case for emphasis)
 o	Parenthesis re not used in a CALL statement if no parameters are being passed.
